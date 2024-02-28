@@ -1,3 +1,3 @@
 # dilettante
 
-_Miscellaneous notebooks for learning and practice_
+_Miscellaneous work for learning and practice_
